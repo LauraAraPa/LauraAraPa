@@ -1,16 +1,18 @@
-## Hi there 👋
+# Laura Arango | Programming Student
 
-<!--
-**LauraAraPa/LauraAraPa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- :computer: **Estudiante de Programación**
+- :round_pushpin: **Location: Barranquilla, Colombia** :colombia:
+- :mailbox: **Email:** [lauraarango008@gmail.com](mailto:lauraarango008@gmail.com)
+- :books: **Platzi**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I´m a software development student specializing in Java programming and software testing, currently starting my professional practice in tech. My goal is to grow as both a developer and QA tester.
+
+✨ With 15 years of experience in advertising design (focused on lithographic production) and 10 years in event logistics, I bring a strong background in creativity, problem-solving, and project management. These skills now complement my transition into the world of technology.
+
+### Working on
+
+**Languages:** Java.
+
+**Tools:** Git, GitHub, Intellij IDEA
