@@ -19,7 +19,6 @@ I´m a software development student specializing in Java programming and softwar
 
 
 ### :zap: Actividad reciente
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
