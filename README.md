@@ -16,3 +16,10 @@ I´m a software development student specializing in Java programming and softwar
 **Languages:** Java.
 
 **Tools:** Git, GitHub, Intellij IDEA
+
+
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
