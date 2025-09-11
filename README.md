@@ -20,4 +20,6 @@ I´m a software development student specializing in Java programming and softwar
 
 ### :zap: Actividad reciente
 <!--START_SECTION:activity-->
+1. 🔒 Closed issue [#1](https://github.com/LauraAraPa/miCuartoRepo/issues/1) in [LauraAraPa/miCuartoRepo](https://github.com/LauraAraPa/miCuartoRepo)
+2. ❗ Opened issue [#1](https://github.com/LauraAraPa/miCuartoRepo/issues/1) in [LauraAraPa/miCuartoRepo](https://github.com/LauraAraPa/miCuartoRepo)
 <!--END_SECTION:activity-->
