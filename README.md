@@ -20,6 +20,6 @@ I´m a software development student specializing in Java programming and softwar
 
 ### :zap: Actividad reciente
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/LauraAraPa/miCuartoRepo/pull/2) in [LauraAraPa/miCuartoRepo](https://github.com/LauraAraPa/miCuartoRepo)
-2. 🔒 Closed issue [#1](https://github.com/LauraAraPa/miCuartoRepo/issues/1) in [LauraAraPa/miCuartoRepo](https://github.com/LauraAraPa/miCuartoRepo)
+1. 🎉 Merged PR [#2](https://github.com/LauraAraPa/miCuartoRepo/pull/2) in [LauraAraPa/miCuartoRepo](https://github.com/LauraAraPa/miCuartoRepo)
+2. 💪 Opened PR [#2](https://github.com/LauraAraPa/miCuartoRepo/pull/2) in [LauraAraPa/miCuartoRepo](https://github.com/LauraAraPa/miCuartoRepo)
 <!--END_SECTION:activity-->
